@@ -49,21 +49,21 @@ These innovative strategies significantly improved the clustering results compar
 
 - **2D Cluster Visualization**: The following image demonstrates the 2D visualization of clusters generated using the Genetic Algorithm (GA).
 
-  ![GA 2D Clusters]<img width="929" alt="Screenshot 1403-06-06 at 8 08 20 AM" src="https://github.com/user-attachments/assets/5e25b36d-e12b-4f4e-b146-c4cca77bda85">
+  <img width="929" alt="Screenshot 1403-06-06 at 8 08 20 AM" src="https://github.com/user-attachments/assets/5e25b36d-e12b-4f4e-b146-c4cca77bda85">
 
 - **Correctness Heatmap**: The heatmap below shows the accuracy of the clustering labels for GA, indicating how well the clusters were formed.
 
-  ![GA Correctness Heatmap](<img width="324" alt="image" src="https://github.com/user-attachments/assets/c52fbccc-a6a5-46b1-b1b2-1e97f35f0a6b">)
+  <img width="687" alt="Screenshot 1403-06-06 at 8 09 09 AM" src="https://github.com/user-attachments/assets/a38d18f8-b8cc-4dfa-9579-0739c8b901b8">
 
 #### K-means Clustering
 
 - **2D Cluster Visualization**: This image displays the 2D visualization of clusters generated using the K-means algorithm.
 
-  ![K-means 2D Clusters](<img width="437" alt="image" src="https://github.com/user-attachments/assets/090ef00d-3b8c-490a-a812-b7d5959346b9">)
+  <img width="929" alt="Screenshot 1403-06-06 at 8 08 37 AM" src="https://github.com/user-attachments/assets/2655deff-1fb5-4be3-bd21-9eefcfb5fe29">
 
 - **Correctness Heatmap**: The heatmap for K-means illustrates the accuracy of the clustering labels, which is notably lower compared to GA.
 
-  ![K-means Correctness Heatmap](<img width="355" alt="image" src="https://github.com/user-attachments/assets/596b1104-acdf-4f04-b312-562e414610f6">)
+  <img width="672" alt="Screenshot 1403-06-06 at 8 09 45 AM" src="https://github.com/user-attachments/assets/06ba915a-a8ba-4a8a-9e55-5e2e1b394734">
 
 ## Conclusion
 
