@@ -49,7 +49,7 @@ These innovative strategies significantly improved the clustering results compar
 
 - **2D Cluster Visualization**: The following image demonstrates the 2D visualization of clusters generated using the Genetic Algorithm (GA).
 
-  ![GA 2D Clusters](<img width="437" alt="image" src="https://github.com/user-attachments/assets/649caa41-6386-4d26-b58a-91b3eca064aa">)
+  ![GA 2D Clusters]<img width="929" alt="Screenshot 1403-06-06 at 8 08 20 AM" src="https://github.com/user-attachments/assets/5e25b36d-e12b-4f4e-b146-c4cca77bda85">
 
 - **Correctness Heatmap**: The heatmap below shows the accuracy of the clustering labels for GA, indicating how well the clusters were formed.
 
